@@ -36,6 +36,9 @@ public interface Associator {
    * @exception Exception if the associator has not been 
    * generated successfully
    */
+	/*
+	 * mamma mia this project is huge!
+	 */
   void buildAssociations(Instances data) throws Exception;
 
   /** 
