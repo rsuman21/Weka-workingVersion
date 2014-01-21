@@ -14,7 +14,7 @@
  */
 
 /*
- *    Run.java
+ *    Run.java executable
  *    Copyright (C) 2009-2012 University of Waikato, Hamilton, New Zealand
  *
  */
