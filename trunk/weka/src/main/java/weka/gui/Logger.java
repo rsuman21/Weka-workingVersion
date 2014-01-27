@@ -28,6 +28,7 @@ package weka.gui;
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @version $Revision: 8034 $
+ * Sonny is testing
  */
 public interface Logger {
 
